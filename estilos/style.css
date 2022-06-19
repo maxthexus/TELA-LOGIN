@@ -28,7 +28,7 @@ body{
 .main-login{
     width: 100vw;
     height: 100vh;
-    background-color: var(--cor00) ;
+    background-image: linear-gradient(to top right, black , var(--cor00));
     display: flex;
     justify-content: center;
     align-items: center;
